@@ -16,9 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// Final fit the value
-// var the value may change
-
-
-//uuid().v4() >> random id numbers
